@@ -6,6 +6,7 @@ import os
 import logging
 import pytz
 from datetime import datetime
+import sys
 
 # Configuration
 RIGA_TZ = pytz.timezone('Europe/Riga')
