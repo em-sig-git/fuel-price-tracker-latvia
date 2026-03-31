@@ -5,13 +5,6 @@
 __pycache__/
 *.pyc
 
-# Logs
-logs/*
-!logs/.gitkeep
-
-# Data
-data/*
-!data/.gitkeep
 
 # Environment variables
 .env
