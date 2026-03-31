@@ -1,0 +1,22 @@
+# Virtual environment
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Logs
+logs/*
+!logs/.gitkeep
+
+# Data
+data/*
+!data/.gitkeep
+
+# Environment variables
+.env
+
+# OS / editor noise
+.DS_Store
+Thumbs.db
+.vscode/
