@@ -2,7 +2,8 @@ name: Daily Fuel Scrape
 
 on:
   schedule:
-    - cron: "0 9 * * *"
+    - cron: "35 7 * * *"
+    - cron: "45 9 * * *"
   workflow_dispatch:
 
 jobs:
