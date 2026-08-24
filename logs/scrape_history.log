@@ -1702,3 +1702,9 @@
 2026-08-23 10:00:04,978 [INFO] Updated 95E_Baltija_cenas_CircleK_nozarelv.csv. Newest record: 2026-08-21 00:00:00
 2026-08-23 10:00:06,669 [INFO] Updated DD_Baltija_cenas_CircleK_nozarelv.csv. Newest record: 2026-08-21 00:00:00
 2026-08-23 10:00:06,669 [INFO] Scrape session finished.
+2026-08-24 08:22:06,788 [INFO] Scrape session started.
+2026-08-24 08:22:08,897 [INFO] Updated 95E_LV_cenas_nozarelv.csv. Newest record: 2026-08-24 00:00:00
+2026-08-24 08:22:10,587 [INFO] Updated DD_LV_cenas_nozarelv.csv. Newest record: 2026-08-24 00:00:00
+2026-08-24 08:22:12,383 [INFO] Updated 95E_Baltija_cenas_CircleK_nozarelv.csv. Newest record: 2026-08-21 00:00:00
+2026-08-24 08:22:14,518 [INFO] Updated DD_Baltija_cenas_CircleK_nozarelv.csv. Newest record: 2026-08-21 00:00:00
+2026-08-24 08:22:14,518 [INFO] Scrape session finished.
